@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Automation projects driven by Computer Vision (OCR, OpenCV, YOLO).<br><br>🌱 I’m currently learning: AI Workflows & Agentic Automations.<br><br>👯 I’m looking to collaborate on: Innovative AI/ML solutions and React/Python full-stack apps.<br><br>💬 Ask me about: Object detection, data structures, and building robust APIs.
+🔭 I’m currently working on Automation projects driven by Computer Vision (OCR, OpenCV, YOLO).<br><br>🌱 I’m currently learning AI Workflows & Agentic Automations.<br><br>👯 I’m looking to collaborate on Innovative AI/ML solutions and React/Python full-stack apps.<br><br>
 
 
 ## 🌐 Socials:
