@@ -1,21 +1,33 @@
-# 💫 About Me:
-🔭 I’m currently working on Automation projects driven by Computer Vision (OCR, OpenCV, YOLO).<br><br>🌱 I’m currently learning AI Workflows & Agentic Automations.<br><br>👯 I’m looking to collaborate on Innovative AI/ML solutions and React/Python full-stack apps.<br><br>
+# Sharavan Yadav
 
+Final-year CS (AI & ML) student at VJIT Hyderabad · ML Intern at [FlyRank.ai](https://flyrank.ai) · CGPA 8.49
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharavanyadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaddamsharavan05@gmail.com) 
+Building applied AI/ML systems — RAG pipelines, computer vision, and full-stack apps that ship, not just notebooks.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shenone77&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shenone77&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+📫 [gaddamsharavan05@gmail.com](mailto:gaddamsharavan05@gmail.com) · [LinkedIn](https://linkedin.com/in/sharavanyadav)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shenone77&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 Currently
+
+- ML Intern at FlyRank.ai (remote)
+- Working through a 5-project AI engineering series: production RAG, offline local LLM assistant, RAG observability (Langfuse), LoRA/QLoRA fine-tuning, and a real-time multimodal app
+- Competing in an ISRO hackathon on urban heat mitigation using geospatial AI/ML
+
+## 🚀 Featured Projects
+
+**[KnowIt.AI](https://github.com/Shenone77/KnowIT.AI)** — Hybrid RAG document Q&A system
+Flask + FastAPI, PostgreSQL/pgvector, BM25+vector retrieval via RRF fusion, OKF-structured ingestion.
+
+**[Traffic Violation Detection & E-Challan System](https://github.com/Shenone77/traffic-challan-system)** — YOLOv11m/YOLOv8 + 7-stage OCR pipeline for Indian number plates, automated PDF challan generation with Gmail SMTP dispatch. Basis of an IEEE paper.
+
+**[IAM Platform](https://github.com/happy2share/user-management-platform)** — Keycloak-based identity & access management platform.
+
+## 🛠️ Stack
+
+`Python` `Java` `JavaScript/TypeScript` · `PyTorch` `scikit-learn` `OpenCV` · `FastAPI` `Flask` `Next.js` `React` · `PostgreSQL` `MongoDB` `Supabase` · `Docker` `GitHub Actions`
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shenone77&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenone77&theme=dark&hide_border=true&layout=compact)
